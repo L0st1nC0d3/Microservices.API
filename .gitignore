@@ -1,0 +1,6 @@
+# Exclude bin and obj folders
+[Bb]in/
+[Oo]bj/
+
+# Exclude .vs folder
+.vs/
